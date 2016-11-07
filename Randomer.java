@@ -10,7 +10,6 @@ public class Randomer {
 	private ArrayList<String> order;
 
 	public Randomer() {
-		// ppl = new ArrayList<String>();
 		order = new ArrayList<String>();
 		rand = new Random();
 	}
